@@ -1,4 +1,8 @@
 this is my first project
 i am studing at uol
 we are studing about git
+<<<<<<< HEAD
 this is too much difficult to learn commands
+=======
+we are confuse about thid git
+>>>>>>> hr
